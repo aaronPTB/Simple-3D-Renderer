@@ -2,7 +2,8 @@
 A project I worked on back in highschool. I still think it's pretty cool, so I'm opening up the source on github.
 
 It's also worth noting that I made this during the dying breaths of the Java web applet, so it's old interface is broken.
-##If anyone wants to ork this and fix it:
+
+##If anyone wants to fork this and fix it:
  
 observer is the camera and will render the points as they appear in the 3d environment. This means it will give you (x,y)     coordinates of where the objects appear to be **on the screen**.
 
